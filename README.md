@@ -15,7 +15,7 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-<a href="https://discord.com/users/956919020718792754" target="_blank">
-   <img src="https://lanyard.cnrad.dev/api/956919020718792754?theme=dark&showDisplayName=true" alt="Discord Activity">
+<a href="https://discord.com/users/956919020718792754">
+   <img src="https://lanyard.cnrad.dev/api/956919020718792754?theme=dark&showDisplayName=true" alt="Discord Activity" />
 </a>
 </div>
