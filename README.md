@@ -13,9 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TicTac2673&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="100%" height="150px">
 </div>
 
-<div align="center">
-<h3>Discord Activity</h3>
-<a href="https://discord.com/users/956919020718792754">
-   <img src="https://lanyard.cnrad.dev/api/956919020718792754?theme=dark&showDisplayName=true" alt="Discord Activity" />
+
+
 </a>
 </div>
