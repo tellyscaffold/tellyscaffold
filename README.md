@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=tellyscaffold&color=000000&style=for-the-badge" alt="azad1337" />
+https://counter.kuber.studio/tellyscaffold/dark/count.svg
 <br>
 <h3>Contact Information</h3>
 <a href="https://discord.com/users/956919020718792754" target="_blank"><img src="https://img.shields.io/badge/tellyscaffold%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
