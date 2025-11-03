@@ -1,5 +1,5 @@
 <div align="center">
-https://counter.kuber.studio/tellyscaffold/dark/count.svg
+<img src="https://counter.kuber.studio/tellyscaffold/dark/count.svg" alt="Profile views" />
 <br>
 <h3>Contact Information</h3>
 <a href="https://discord.com/users/956919020718792754" target="_blank"><img src="https://img.shields.io/badge/tellyscaffold%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
